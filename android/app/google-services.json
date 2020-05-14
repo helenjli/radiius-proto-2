@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453304401896",
+    "firebase_url": "https://radiius-f34e3.firebaseio.com",
+    "project_id": "radiius-f34e3",
+    "storage_bucket": "radiius-f34e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453304401896:android:a80d1b3effdd4c02fe6e5d",
+        "android_client_info": {
+          "package_name": "ca.radiustechnology.radiius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453304401896-muba7aktap7e9qgfff36b410n19bm3kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYX3gVQezMUZDYp9-PFJpv7okU9ReA6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453304401896-muba7aktap7e9qgfff36b410n19bm3kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
